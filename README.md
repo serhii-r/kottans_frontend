@@ -1,6 +1,6 @@
 # kottans_frontend
+## Task 0: Git and GitHub
 <hr>
-### Task 0: Git and GitHub
 I have just started my "coding path" so it was the first encounter with 
 Git and GitHub - a lot of new staff for me, but I am managing :).
 Huge "Thanks!" to those people who set all those tasks up and systemized 
