@@ -46,3 +46,9 @@ not that conceptualized for me).
 * [Intro to JS.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_5/Intro%20to%20JavaScript.png)
 
 Nice refresher :)
+
+## Task 5: Object Oriented JS
+* [Object Oriented JS.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_6/Object%20Oriented%20JS.png)
+
+Before I took the course I was not new to the concepts of scopes, closures, prototype chains, but for me
+it has been difficult to follow the host. Maybe the couse is very intensive... Personally, I am a great fan of [Jonas Schmedtmann](https://www.udemy.com/the-complete-javascript-course/) courses on Udemy :)
