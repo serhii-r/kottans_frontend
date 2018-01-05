@@ -42,3 +42,7 @@ Really great course! A lot of material which you thought you knew is now more sy
 most is common responsive patterns (I used it before of course but the whole idea of patterns was
 not that conceptualized for me).
 
+## Task 5: Intro to JS
+* [Intro to JS.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_5/Intro%20to%20JavaScript.png)
+
+Nice refresher :)
