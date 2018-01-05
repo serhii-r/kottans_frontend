@@ -56,6 +56,13 @@ it has been difficult to follow the host. Maybe the couse is very intensive... P
 
 ## Task 7: Offline Web Applications
 * [Offline Web Applications.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_7/Offline%20Web%20Applications.png)
+
 I have honestly watched the whole course, but the material seems to be pretty vague to me. Perhaps I should
 take some other courses regarding server-side JS with a more entry level.
+
+## Task 8: Memory Pair Game
+* [Demo](https://serhii-r.github.io)
+* [Source](https://github.com/serhii-r/kottans_frontend/tree/master/Task_8)
+
+Great challenge! I just wish I had a bit more time to complete the task (found out about Kottans just recently).
 
