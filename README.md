@@ -1,6 +1,7 @@
 # kottans_frontend
 
 ## Task 0: get familiar with Git and GitHub
+* [How to use Git and GitHub.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_0/How%20to%20use%20Git%20and%20GitHub.png)
 
 I have just started my "coding path" so it was the first encounter with 
 Git and GitHub - a lot of new staff for me, but I am managing :).
