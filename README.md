@@ -10,9 +10,9 @@ the completion of the Udacity course I don't know how long it would have taken m
 to realize how important version control is.
 
 ## Task 1: learn some command line, server and http tools
-* [Configuring Linux Web Servers.png](https://github.com/serhiir/kottans_frontend/blob/master/Task_1/Configuring%20Linux%20Web%20Servers.png)
+* [Configuring Linux Web Servers.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_1/Configuring%20Linux%20Web%20Servers.png)
 * [Linux Command Line Basics.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_1/Linux%20Command%20Line%20Basics.png)
-* [Networking for Web Developers.png](https://github.com/serhiir/kottans_frontend/blob/master/Task_1/Networking%20for%20Web%20Developers.png)
+* [Networking for Web Developers.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_1/Networking%20for%20Web%20Developers.png)
 
 I have never worked with the terminal before and I used to wonder – why would
 you use it? After watching “Linux Command Line Basics” and “Configuring Linux Web Servers” 
