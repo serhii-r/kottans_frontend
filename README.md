@@ -34,3 +34,11 @@ hope to use this instrument in the future.
 * [Intro to HTML & CSS.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_3/Intro%20to%20HTML%20%26%20CSS.png)
 
 Finally, I have managed to reach the task which is not so "new information-intensive" for me. All in all it has been a great refresher :)
+
+## Task 4: Responsive Web Design Fundamentals
+* [Responsive Web Design Fundamentals.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_4/Responsive%20Web%20Design%20Fundamentals.png)
+
+Really great course! A lot of material which you thought you knew is now more systemized. What I liked 
+most is common responsive patterns (I used it before of course but the whole idea of patterns was
+not that conceptualized for me).
+
