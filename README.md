@@ -53,3 +53,9 @@ Nice refresher :)
 
 Before I took the course I was not new to the concepts of scopes, closures, prototype chains, but for me
 it has been difficult to follow the host. Maybe the couse is very intensive... Personally, I am a great fan of [Jonas Schmedtmann](https://www.udemy.com/the-complete-javascript-course/) courses on Udemy :)
+
+## Task 7: Offline Web Applications
+* [Offline Web Applications.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_7/Offline%20Web%20Applications.png)
+I have honestly watched the whole course, but the material seems to be pretty vague to me. Perhaps I should
+take some other courses regarding server-side JS with a more entry level.
+
