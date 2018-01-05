@@ -29,3 +29,8 @@ I did get it, but it should definitely be re-watched.
 I liked these two courses more than the Udacity one in Task_0. The material represented here 
 seems to be clearer and more understandable. I finally got how to review modified files and
 hope to use this instrument in the future.
+
+## Task 3: Intro to HTML & CSS
+* [Intro to HTML & CSS.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_3/Intro%20to%20HTML%20%26%20CSS.png)
+
+Finally, I have managed to reach the task which is not so "new information-intensive" for me. All in all it has been a great refresher :)
