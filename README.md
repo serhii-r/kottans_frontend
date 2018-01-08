@@ -66,3 +66,12 @@ take some other courses regarding server-side JS with a more entry level.
 
 Great challenge! I just wish I had a bit more time to complete the task (found out about Kottans just recently).
 
+## Task 9: Website Perfomance Optimization
+* [Website Perfomance Optimization.png](https://github.com/serhii-r/kottans_frontend/blob/master/Task_9/Website%20Performance%20Optimization.png)
+
+The whole task is a real excitement! I wish had known all this stuff before I completed Task 8.
+I have been really surprised with the comparison of load time as bandwidth increases and page 
+load time as latency decreases. 
+I have finally realized the importance of splitting your CSS into different files where
+appropriate and definitely going to use it in the future. I also now understand why you
+should not work with CSS styles directly but with classes.
